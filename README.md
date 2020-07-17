@@ -1,2 +1,2 @@
 # SekolahRakyat
-Sekolah Rakyat untuk seluruh lapisan masyarakat Indonesia secara online, bisa di akses minimal lewat HP
+Simple responsive front end website desain sekolah online, dengan HTML, CSS dan Javascript menggunakan Bootsrap
